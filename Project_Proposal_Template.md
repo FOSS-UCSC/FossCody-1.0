@@ -1,3 +1,6 @@
+# Project Title
+* Need a product name (Optional - simple tagline which briefly describe your project)
+
 # Abstract
 * (in 150 words) - This is the summary of all the following sections covered in this proposal.
 
