@@ -23,6 +23,7 @@ Generally speaking, you should open source your project when you feel comfortabl
 No matter which stage you decide to open source your project, every project should include the following documentation:
 
 * [Open source license](https://help.github.com/articles/licensing-a-repository/)
+
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. You must include a license when you launch an open source project.
   
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
@@ -30,9 +31,11 @@ An open source license guarantees that others can use, copy, modify, and contrib
   * Why is this project useful?
   * How do I get started?
   * Where can I get more help, if I need it?
-For more inspiration, try using ![@PurpleBooth’s](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README template to write a complete README.
+  
+For more inspiration, try using [@PurpleBooth’s](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README template to write a complete README.
 
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
     * How to file a bug report (try using issue and pull request templates)
     * How to suggest a new feature
@@ -44,6 +47,7 @@ In addition to technical details, a CONTRIBUTING file is an opportunity to commu
     * How contributors should (or should not) get in touch with you
     
 * [Code of conduct](https://github.com/FOSS-UCSC/FossCody-1.0/edit/master/Sample_Project_Guide.md)
+
 Finally, a code of conduct helps set ground rules for behavior for your project’s participants. This is especially valuable if you’re launching an open source project for a community or company
 
 ## Naming and branding your project
