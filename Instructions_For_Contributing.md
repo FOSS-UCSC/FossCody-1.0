@@ -16,4 +16,4 @@
 5. Full details about the marking criteria will be publish soon....
 
 **........Happy Coding........** <br>
-**~ FOSS-UCSC club ~**
+***FOSS-UCSC club***
