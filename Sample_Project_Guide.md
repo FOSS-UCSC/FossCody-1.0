@@ -4,7 +4,6 @@
 When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license.
 
 To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
-
 * Everybody tries the pie (use)
 * The pie is a hit! They ask you for the recipe, which you provide (view)
 * One friend, Alex, who’s a pastry chef, suggests reducing the sugar (modify)
@@ -24,7 +23,7 @@ Generally speaking, you should open source your project when you feel comfortabl
 No matter which stage you decide to open source your project, every project should include the following documentation:
 
 * [Open source license](https://help.github.com/articles/licensing-a-repository/)
-  * An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. You must include a license when you launch an open source project.
+An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. You must include a license when you launch an open source project.
   
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
   * What does this project do?
@@ -33,17 +32,18 @@ No matter which stage you decide to open source your project, every project shou
   * Where can I get more help, if I need it?
 For more inspiration, try using ![@PurpleBooth’s](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README template to write a complete README.
 
-* ![Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-  * A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
     * How to file a bug report (try using issue and pull request templates)
     * How to suggest a new feature
     * How to set up your environment and run tests
-  * In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+    
+In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
     * The types of contributions you’re looking for
     * Your roadmap or vision for the project
     * How contributors should (or should not) get in touch with you
     
-* ![Code of conduct](https://github.com/FOSS-UCSC/FossCody-1.0/edit/master/Sample_Project_Guide.md)
+* [Code of conduct](https://github.com/FOSS-UCSC/FossCody-1.0/edit/master/Sample_Project_Guide.md)
 Finally, a code of conduct helps set ground rules for behavior for your project’s participants. This is especially valuable if you’re launching an open source project for a community or company
 
 ## Naming and branding your project
