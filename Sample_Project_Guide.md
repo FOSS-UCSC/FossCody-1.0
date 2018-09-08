@@ -23,10 +23,10 @@ Generally speaking, you should open source your project when you feel comfortabl
 
 No matter which stage you decide to open source your project, every project should include the following documentation:
 
-* ![Open source license](https://help.github.com/articles/licensing-a-repository/)
+* [Open source license](https://help.github.com/articles/licensing-a-repository/)
   * An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. You must include a license when you launch an open source project.
   
-* ![README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
   * What does this project do?
   * Why is this project useful?
   * How do I get started?
