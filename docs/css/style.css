@@ -195,7 +195,7 @@ textarea.input {
 }
 
 #header.transparent-navbar:not(.fixed-navbar) .navbar-brand .logo .logo-img {
-  display: none;
+  display:none;
 }
 
 #header.fixed-navbar .navbar-brand .logo .logo-alt-img {
@@ -220,11 +220,11 @@ textarea.input {
 }
 
 #header.transparent-navbar {
-  position: absolute;
+  position: relative;
   left: 0;
   right: 0;
   top: 0;
-  background-color: transparent;
+  background-color: black;
   border-bottom: 1px solid #DADADA30;
 }
 
