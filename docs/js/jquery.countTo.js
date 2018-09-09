@@ -66,7 +66,7 @@
       this.options.onUpdate.call(this.$element, this.value);
     }
 
-    if (this.loopCount >= this.loops) {
+    if (this.loopCount > this.loops) {
       clearInterval(this.interval);
       this.value = this.options.to;
 
