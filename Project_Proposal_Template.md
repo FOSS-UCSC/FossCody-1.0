@@ -5,8 +5,7 @@
 * (in 150 words) - This is the summary of all the following sections covered in this proposal.
 
 # Introduction 
-* Problem Statement (issues you are trying to address)
-* Background/Target Group
+* Background
 
 # Proposed Solution
 * Type of Solution (a mobile app/ desktop app/ web app) 
